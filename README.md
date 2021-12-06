@@ -11,16 +11,16 @@ For this project, we are utilizing Amazon Workspace to create an external enviro
 
 __Vine Reviews & 5-Star Reviews__
 
-![image](https://raw.githubusercontent.com/RobC30/Amazon_Vine_Analysis/main/Resources/paid.png)
+![image](https://raw.githubusercontent.com/RobC30/Amazon_Vine_Analysis/main/images/paid.png)
 
 
 __Non-Vine Reviews & 5-Star Reviews__
 
-![image](https://raw.githubusercontent.com/RobC30/Amazon_Vine_Analysis/main/Resources/unpaid.png)
+![image](https://raw.githubusercontent.com/RobC30/Amazon_Vine_Analysis/main/images/unpaid.png)
 
 __Percentages pf Vine & Non-Vine Reviews__
 
-![image](https://raw.githubusercontent.com/RobC30/Amazon_Vine_Analysis/main/Resources/percentages.png)
+![image](https://raw.githubusercontent.com/RobC30/Amazon_Vine_Analysis/main/images/percentages.png)
 
 For the category of Music, less than 1% were Vine reviews and out of that small percentage, none gave a 5-Star rating. Almost all reviews were given by non-Vine members and around 63% of those reviews were 5-Star ratings.
 
